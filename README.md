@@ -8,6 +8,8 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
 
 [🚀 **Check out Cycloid - a Hybrid-Cloud DevOps collaboration platform!!** 🚀](https://cycloid.io/)
 
+_And my personal projects:_
+
 [⚡ **Check out my latest project!** `zalgonoise/zlog` ⚡](https://github.com/zalgonoise/zlog)
 
 

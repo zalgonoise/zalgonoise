@@ -6,7 +6,10 @@ I enjoy writing software to address issues or complement features in services, t
 
 With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_. Now, as a Software Engineer with [Cycloid.io](https://cycloid.io), I put this enthusiasm into action by actively contributing to an amazing platform to simplify how you deploy your infrastructure-as-code!
 
+[🚀 **Check out Cycloid - a Hybrid-Cloud DevOps collaboration platform!!** 🚀](https://cycloid.io/)
+
 [⚡ **Check out my latest project!** `zalgonoise/zlog` ⚡](https://github.com/zalgonoise/zlog)
+
 
 ___________________
 

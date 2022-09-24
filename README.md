@@ -6,7 +6,7 @@ I enjoy writing software to address issues or complement features in services, t
 
 With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_.
 
-[⚡ **Check out my lastest project!** `zalgonoise/zlog` ⚡](https://github.com/zalgonoise/zlog)
+[⚡ **Check out my latest project!** `zalgonoise/zlog` ⚡](https://github.com/zalgonoise/zlog)
 
 ___________________
 
@@ -40,6 +40,7 @@ ___________________
 <img display="block" width="60" height="60" src="https://github.com/zalgonoise/zalgonoise/blob/master/media/postgresql.svg">
 <img display="block" width="60" height="60" src="https://github.com/zalgonoise/zalgonoise/blob/master/media/mongodb.svg">
 <img display="block" width="60" height="60" src="https://github.com/zalgonoise/zalgonoise/blob/master/media/sqlite.svg">
+<img display="block" width="60" height="60" src="https://github.com/zalgonoise/zalgonoise/blob/master/media/dgraph.svg">
 </div>
 
 

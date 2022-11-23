@@ -10,7 +10,8 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
 
 _And my personal projects:_
 
-- [⚡ **Check out my latest library!** `zalgonoise/zlog` ⚡](https://github.com/zalgonoise/zlog)
+- [⚡ **Check out my latest library!** `zalgonoise/logx` ⚡](https://github.com/zalgonoise/logx)
+  - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
 - [⚡ **Check out my latest app!** `zalgonoise/dns` ⚡](https://github.com/zalgonoise/dns)
 
 ___________________

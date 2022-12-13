@@ -10,9 +10,12 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
 
 _And my personal projects:_
 
-- [⚡ **Check out my latest library!** `zalgonoise/logx` ⚡](https://github.com/zalgonoise/logx)
-  - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
-- [⚡ **Check out my latest app!** `zalgonoise/dns` ⚡](https://github.com/zalgonoise/dns)
+- 📚 **Check out my latest libraries!** 📚
+  - [📚 `zalgonoise/attr` - *the* Go key-value data structure library 📚](https://github.com/zalgonoise/attr)
+  - [📚 `zalgonoise/logx` - A blazing fast structured logger for Go 📚](https://github.com/zalgonoise/logx)
+    - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
+- ⚡ **Check out my latest apps!** ⚡
+  - [⚡ `zalgonoise/dns` - A basic but modular domain name server ⚡](https://github.com/zalgonoise/dns)
 
 ___________________
 

@@ -4,11 +4,7 @@ Welcome to my GitHub profile! I am Mario, a technology enthusiast with great pas
 
 I enjoy writing software to address issues or complement features in services, that I see myself or others coming across; with special joy in command-line utilities and web services. Although the UX/UI world is fascinating, the backend logic is the most interesting for me.
 
-With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_. Now, as a Software Engineer with [Cycloid.io](https://cycloid.io), I put this enthusiasm into action by actively contributing to an amazing platform to simplify how you deploy your infrastructure-as-code!
-
-[🚀 **Check out Cycloid - Platform Engineering** 🚀](https://cycloid.io/)
-
-_And my personal projects:_
+With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_. Now, as a Software Engineer, I put this enthusiasm into action by building software to make our lives easier, as developers, DevOps and users!
 
 - 📚 **Check out my latest libraries!** 📚
   - [📚 `zalgonoise/attr` - *the* Go key-value data structure library 📚](https://github.com/zalgonoise/attr)

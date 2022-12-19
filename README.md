@@ -7,6 +7,7 @@ I enjoy writing software to address issues or complement features in services, t
 With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_. Now, as a Software Engineer, I put this enthusiasm into action by building software to make our lives easier, as developers, DevOps and users!
 
 - 📚 **Check out my latest libraries!** 📚
+  - [📚 `zalgonoise/cur` - A generic Cursor interface for Go slices 📚](https://github.com/zalgonoise/cur)
   - [📚 `zalgonoise/spanner` - A Tracer for Go applications 📚](https://github.com/zalgonoise/spanner)
   - [📚 `zalgonoise/attr` - *the* Go key-value data structure library 📚](https://github.com/zalgonoise/attr)
   - [📚 `zalgonoise/logx` - A blazing fast structured logger for Go 📚](https://github.com/zalgonoise/logx)

@@ -18,6 +18,8 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
     - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
 - ⚡ **Check out my latest apps!** ⚡
   - [⚡ `zalgonoise/dns` - A basic but modular domain name server ⚡](https://github.com/zalgonoise/dns)
+- 🔬 **Check out my research repo!** 🔬
+  - [🔬 `zalgonoise/research` - research and deep-dives into topics without an actual end-purpose 🔬](https://github.com/zalgonoise/research)
 
 ___________________
 

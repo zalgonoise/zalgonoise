@@ -17,6 +17,7 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
   - [📚 `zalgonoise/logx` - a blazing fast structured logger for Go 📚](https://github.com/zalgonoise/logx)
     - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
 - ⚡ **Check out my latest apps!** ⚡
+  - [⚡ `zalgonoise/cloaki` - a lightweight, fast and secure web-based secrets store ⚡](https://github.com/zalgonoise/cloaki)
   - [⚡ `zalgonoise/dns` - a basic but modular domain name server ⚡](https://github.com/zalgonoise/dns)
 - 🔬 **Check out my research repo!** 🔬
   - [🔬 `zalgonoise/research` - research and deep-dives into topics without an actual end-purpose 🔬](https://github.com/zalgonoise/research)

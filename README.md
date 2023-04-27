@@ -23,6 +23,10 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
   - [🔬 `zalgonoise/research` - research and deep-dives into topics without an actual end-purpose 🔬](https://github.com/zalgonoise/research)
 - 👽 **Check out my experimental repo!** 👽
   - [👽 `zalgonoise/x` - experimental Go libraries (take it with a grain of salt) 👽](https://github.com/zalgonoise/x)
+
+__________________
+
+_Contact information_: [mariozalgo@gmail.com](mailto:mariozalgo@mail.com)
 ___________________
 
 <div>

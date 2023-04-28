@@ -24,6 +24,19 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
 - 👽 **Check out my experimental repo!** 👽
   - [👽 `zalgonoise/x` - experimental Go libraries (take it with a grain of salt) 👽](https://github.com/zalgonoise/x)
 
+
+_________
+
+
+### Special thanks
+
+_A very heartwarming thank you to [JetBrains](https://www.jetbrains.com/) for their support with their [Open Source Support program](https://jb.gg/OpenSourceSupport) on my [`zalgonoise/x` repository](https://github.com/zalgonoise/x)!! Building these libraries, apps, solutions with GoLand makes it such a great developer experience, from the debugger to the tests, coverage and profiling_ ❤️
+
+<div style="display: flex; align-items: center; justify-content: center">
+    <a href="https://www.jetbrains.com/" title="JetBrains"><img width="120" height="120" title="JetBrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg"></a>
+    <a href="https://www.jetbrains.com/go" title="GoLand"><img width="120" height="120" title="GoLand" src="https://resources.jetbrains.com/storage/products/company/brand/logos/GoLand_icon.svg"></a>
+</div>
+
 __________________
 
 _Contact information_: [mariozalgo@gmail.com](mailto:mariozalgo@mail.com)

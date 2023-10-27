@@ -7,6 +7,7 @@ I enjoy writing software to address issues or complement features in services, t
 With my previous roles in Technical Support, and in Systems Monitoring, I became very fond of automation and infrastructure-as-code -- always pushing forward ways to _avoid doing the same task more than once_. Now, as a Software Engineer, I put this enthusiasm into action by building software to make our lives easier, as developers, DevOps and users!
 
 - 📚 **Check out my latest libraries!** 📚
+  - [📚 `zalgonoise/cfg` - a functional options and configuration builder library in Go 📚](https://github.com/zalgonoise/cfg)
   - [📚 `zalgonoise/fts` - a SQLite-based full-text search engine library in Go 📚](https://github.com/zalgonoise/fts)
   - [📚 `zalgonoise/gbuf` - a generic buffer library for Go 📚](https://github.com/zalgonoise/gbuf)
   - [📚 `zalgonoise/gio` - a generic I/O library for Go 📚](https://github.com/zalgonoise/gio)

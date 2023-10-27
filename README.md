@@ -16,8 +16,6 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
   - [📚 `zalgonoise/cur` - a generic Cursor interface for Go slices 📚](https://github.com/zalgonoise/cur)
   - [📚 `zalgonoise/spanner` - a Tracer for Go applications 📚](https://github.com/zalgonoise/spanner)
   - [📚 `zalgonoise/attr` - *the* Go key-value data structure library 📚](https://github.com/zalgonoise/attr)
-  - [📚 `zalgonoise/logx` - a blazing fast structured logger for Go 📚](https://github.com/zalgonoise/logx)
-    - [🚀 **An iteration of** `zalgonoise/zlog` 🚀](https://github.com/zalgonoise/zlog)
 - ⚡ **Check out my latest apps!** ⚡
   - [⚡ `zalgonoise/cloaki` - a lightweight, fast and secure web-based secrets store ⚡](https://github.com/zalgonoise/cloaki)
   - [⚡ `zalgonoise/dns` - a basic but modular domain name server ⚡](https://github.com/zalgonoise/dns)

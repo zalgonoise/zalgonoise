@@ -17,6 +17,7 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
   - [📚 `zalgonoise/spanner` - a Tracer for Go applications 📚](https://github.com/zalgonoise/spanner)
   - [📚 `zalgonoise/attr` - *the* Go key-value data structure library 📚](https://github.com/zalgonoise/attr)
 - ⚡ **Check out my latest apps!** ⚡
+  - [⚡ `zalgonoise/x/steam` - unofficial Steam CLI app (underway) ⚡](https://github.com/zalgonoise/x/tree/master/steam)
   - [⚡ `zalgonoise/cloaki` - a lightweight, fast and secure web-based secrets store ⚡](https://github.com/zalgonoise/cloaki)
   - [⚡ `zalgonoise/dns` - a basic but modular domain name server ⚡](https://github.com/zalgonoise/dns)
 - 🔬 **Check out my research repo!** 🔬

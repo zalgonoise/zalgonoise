@@ -25,6 +25,8 @@ With my previous roles in Technical Support, and in Systems Monitoring, I became
   - [🔬 `zalgonoise/research` - research and deep-dives into topics without an actual end-purpose 🔬](https://github.com/zalgonoise/research)
 - 👽 **Check out my experimental repo!** 👽
   - [👽 `zalgonoise/x` - experimental Go libraries (take it with a grain of salt) 👽](https://github.com/zalgonoise/x)
+- ⭐ **Advent of Code** ⭐
+  - [⭐ `zalgonoise/advent-2023` - Advent of Code 2023 in Go ⭐](https://github.com/zalgonoise/advent-2023)
 
 
 _________
